@@ -13,6 +13,7 @@
 		95D6EBE5280FE9FF00960B82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95D6EBE3280FE9FF00960B82 /* Main.storyboard */; };
 		95D6EBE7280FE9FF00960B82 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95D6EBE6280FE9FF00960B82 /* Assets.xcassets */; };
 		95D6EBEA280FE9FF00960B82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 95D6EBE8280FE9FF00960B82 /* LaunchScreen.storyboard */; };
+		95D6EBF2280FEB7F00960B82 /* HalfModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95D6EBF1280FEB7F00960B82 /* HalfModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		95D6EBE6280FE9FF00960B82 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		95D6EBE9280FE9FF00960B82 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		95D6EBEB280FE9FF00960B82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		95D6EBF1280FEB7F00960B82 /* HalfModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HalfModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				95D6EBDD280FE9FF00960B82 /* AppDelegate.swift */,
 				95D6EBDF280FE9FF00960B82 /* SceneDelegate.swift */,
 				95D6EBE1280FE9FF00960B82 /* ViewController.swift */,
+				95D6EBF1280FEB7F00960B82 /* HalfModalViewController.swift */,
 				95D6EBE3280FE9FF00960B82 /* Main.storyboard */,
 				95D6EBE6280FE9FF00960B82 /* Assets.xcassets */,
 				95D6EBE8280FE9FF00960B82 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				95D6EBE2280FE9FF00960B82 /* ViewController.swift in Sources */,
 				95D6EBDE280FE9FF00960B82 /* AppDelegate.swift in Sources */,
 				95D6EBE0280FE9FF00960B82 /* SceneDelegate.swift in Sources */,
+				95D6EBF2280FEB7F00960B82 /* HalfModalViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
